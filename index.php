@@ -14,7 +14,7 @@
             <div class="wallpaper">
                 <div>
                     <img id="logo" src="./images/okotoks-pizza-logo.png" alt="pizza">
-                    <h1>Okotoks pizza</h1>
+                    <h1>Okotoks pizza1</h1>
                 </div>
                 <div class="container">
                     <h2 id="telephone float-right-50">(780)449-4949</h2>
